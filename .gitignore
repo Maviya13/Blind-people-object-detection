@@ -36,4 +36,3 @@ __pycache__/
 
 # Ignore logs, env files, and other junk
 *.log
-.env
